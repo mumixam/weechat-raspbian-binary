@@ -1,0 +1,52 @@
+Format: 1.8
+Date: Tue, 08 Nov 2016 00:00:14 +0000
+Source: weechat-devel
+Binary: weechat-devel weechat-devel-curses weechat-devel-core weechat-devel-plugins weechat-devel-doc weechat-devel-dev weechat-devel-dbg
+Architecture: source all armhf
+Version: 1.7-1~dev20161108
+Distribution: unstable
+Urgency: low
+Maintainer: Sébastien Helleu <flashcode@flashtux.org>
+Changed-By: Sébastien Helleu <flashcode@flashtux.org>
+Description:
+ weechat-devel - Fast, light and extensible chat client
+ weechat-devel-core - Fast, light and extensible chat client - core files
+ weechat-devel-curses - Fast, light and extensible chat client - console client
+ weechat-devel-dbg - Fast, light and extensible chat client - debugging symbols
+ weechat-devel-dev - Fast, light and extensible chat client - development headers
+ weechat-devel-doc - Fast, light and extensible chat client - documentation
+ weechat-devel-plugins - Fast, light and extensible chat client - plugins
+Changes:
+ weechat-devel (1.7-1~dev20161108) unstable; urgency=low
+ .
+   * Repository snapshot
+Checksums-Sha1:
+ ba165e01ffcacd1f232e197049b98304644e190e 1455 weechat-devel_1.7-1~dev20161108.dsc
+ e30347fc3a8678c387ac92049c3bb74a5e0b189b 3671834 weechat-devel_1.7-1~dev20161108.tar.gz
+ dcc17f1e731dd805812236bd055d1c0a28715f4b 48404 weechat-devel_1.7-1~dev20161108_all.deb
+ 4bbb2f570f5f86eb2bd3979097eae62a8e1f0f78 325014 weechat-devel-curses_1.7-1~dev20161108_armhf.deb
+ f7b06d252f774a1c0e155d5565e2cc928c7b2efb 662358 weechat-devel-core_1.7-1~dev20161108_armhf.deb
+ a1f76786227e830bf7d6cfdbc86ac9cdcacad089 429912 weechat-devel-plugins_1.7-1~dev20161108_armhf.deb
+ e0c3432d40065fda710998090e6578f6d23fcbe1 782658 weechat-devel-doc_1.7-1~dev20161108_all.deb
+ 2b526585ba6f1e5954460ee13b207e8f73ab14b9 60688 weechat-devel-dev_1.7-1~dev20161108_all.deb
+ 4af3afae205c16c3164919eb10e95785efc37482 3342454 weechat-devel-dbg_1.7-1~dev20161108_armhf.deb
+Checksums-Sha256:
+ 21ccff2cf5ceeb1e5ac7b551d98ff1af4a30b5e113c09a10fcecedbccfd8532c 1455 weechat-devel_1.7-1~dev20161108.dsc
+ 6e0131df7c617e5d99e33d4bb592279ac91b0cef6fbe29bc31844dc5acee143b 3671834 weechat-devel_1.7-1~dev20161108.tar.gz
+ d8e5ea40a28a12ed5aac56fe3af8b2a9fd16ebba0d684fda6e3fd76837d7546c 48404 weechat-devel_1.7-1~dev20161108_all.deb
+ 4aa626202abc05cad3630cedd6f053d240422e650c75d3e632a9588cbe77184e 325014 weechat-devel-curses_1.7-1~dev20161108_armhf.deb
+ 497c9138db2c1da25e960d86e9b2c33ea1f168ec295632f3fdf1cb5470adeb62 662358 weechat-devel-core_1.7-1~dev20161108_armhf.deb
+ fda6d8e6a0aab56362401e20ff1dc8c10dff7cc39af74c970f6aa5187245a192 429912 weechat-devel-plugins_1.7-1~dev20161108_armhf.deb
+ d4706dca99216bb66f510286473ad2554843e27e070c38717ebc04e1191ceea3 782658 weechat-devel-doc_1.7-1~dev20161108_all.deb
+ 948cddde0babce919ecfee7ef5d3a02d8c091cb48a92d6faba5a231eea90d01c 60688 weechat-devel-dev_1.7-1~dev20161108_all.deb
+ 425f6b9a01ac77647e8f5a994855f56a7efde78ee0dfc2b1d2141b277ebae46b 3342454 weechat-devel-dbg_1.7-1~dev20161108_armhf.deb
+Files:
+ cd0a1896ecfc054f39078b36d7caf59b 1455 net optional weechat-devel_1.7-1~dev20161108.dsc
+ 1fc1039b5c1ad058b3809f1e917f9975 3671834 net optional weechat-devel_1.7-1~dev20161108.tar.gz
+ 91bea813a312b7ad20b40014cf789a18 48404 net optional weechat-devel_1.7-1~dev20161108_all.deb
+ 423774eb9ecd0437e530adfb06ef4fc4 325014 net optional weechat-devel-curses_1.7-1~dev20161108_armhf.deb
+ bdc45544920aae1c166850411581ad79 662358 net optional weechat-devel-core_1.7-1~dev20161108_armhf.deb
+ f38501bc8be09962e3c302366498c4bd 429912 net optional weechat-devel-plugins_1.7-1~dev20161108_armhf.deb
+ e2f8383f072dd7c465669c3cc03451e9 782658 doc optional weechat-devel-doc_1.7-1~dev20161108_all.deb
+ d87966a3b866e72c6a503828e0a3391a 60688 devel optional weechat-devel-dev_1.7-1~dev20161108_all.deb
+ a8a5e717ae692710ef92de9b9a120009 3342454 debug extra weechat-devel-dbg_1.7-1~dev20161108_armhf.deb
