@@ -2,7 +2,7 @@ Format: 1.0
 Source: weechat-devel
 Binary: weechat-devel, weechat-devel-curses, weechat-devel-core, weechat-devel-plugins, weechat-devel-doc, weechat-devel-dev, weechat-devel-dbg
 Architecture: any all
-Version: 1.7-1~dev20161110
+Version: 1.7-1~dev20161111
 Maintainer: Sébastien Helleu <flashcode@flashtux.org>
 Homepage: https://weechat.org/
 Standards-Version: 3.9.8
@@ -18,8 +18,8 @@ Package-List:
  weechat-devel-doc deb doc optional arch=all
  weechat-devel-plugins deb net optional arch=any
 Checksums-Sha1:
- fa6e327b9cbd75cae66a38b9443bd5af4f86dba7 3677520 weechat-devel_1.7-1~dev20161110.tar.gz
+ 809942ac367c1026825e0375556e23d59e79d066 3677590 weechat-devel_1.7-1~dev20161111.tar.gz
 Checksums-Sha256:
- 93e30539651d964009744ad4676e8512ac1cedcca3aa68cd202399951feb60b5 3677520 weechat-devel_1.7-1~dev20161110.tar.gz
+ 5f387ca957c61d432598c20c259cdf4a3d62c611223cd3323388aeecc44212f3 3677590 weechat-devel_1.7-1~dev20161111.tar.gz
 Files:
- 70424609671173217c47fbde623996da 3677520 weechat-devel_1.7-1~dev20161110.tar.gz
+ 216c0d92aa8f04fb90c4e6b692f66d51 3677590 weechat-devel_1.7-1~dev20161111.tar.gz
