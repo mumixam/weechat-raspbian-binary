@@ -1,0 +1,52 @@
+Format: 1.8
+Date: Wed, 17 May 2017 00:58:14 +0000
+Source: weechat
+Binary: weechat weechat-curses weechat-core weechat-plugins weechat-doc weechat-dev weechat-dbg
+Architecture: source all armhf
+Version: 1.8-1
+Distribution: unstable
+Urgency: medium
+Maintainer: Emmanuel Bouthenot <kolter@debian.org>
+Changed-By: Sébastien Helleu <flashcode@flashtux.org>
+Description:
+ weechat    - Fast, light and extensible chat client
+ weechat-core - Fast, light and extensible chat client - core files
+ weechat-curses - Fast, light and extensible chat client - console client
+ weechat-dbg - Fast, light and extensible chat client - debugging symbols
+ weechat-dev - Fast, light and extensible chat client - development headers
+ weechat-doc - Fast, light and extensible chat client - documentation
+ weechat-plugins - Fast, light and extensible chat client - plugins
+Changes:
+ weechat (1.8-1) unstable; urgency=medium
+ .
+   *  New upstream release
+Checksums-Sha1:
+ bfa2a218064146b7881b3a5082fa942d2ecb7622 1298 weechat_1.8-1.dsc
+ 5124366a4dfd4240e4ba24a688ec41aa1f255db9 10716063 weechat_1.8-1.tar.gz
+ a1a5448007b4547f91597564a629fb0cb1a84530 56502 weechat_1.8-1_all.deb
+ 8ec08ed9e47fa3ca109d780e029b884c3f2e1c4f 337992 weechat-curses_1.8-1_armhf.deb
+ d2444b34089302cc0e1b60df712d0806fad9f585 696990 weechat-core_1.8-1_armhf.deb
+ 8f726a150e60e316f40083137a53e09d180f12ef 438036 weechat-plugins_1.8-1_armhf.deb
+ 46c2ad6916bb00919fba5eaf90e02386a8a2d115 822948 weechat-doc_1.8-1_all.deb
+ d8d66f8a1137e30c587ef5dedfccca607a5857e6 69252 weechat-dev_1.8-1_all.deb
+ 299d92b4dc5b2e0ba677ccbfc7c3ce55da84112c 3446158 weechat-dbg_1.8-1_armhf.deb
+Checksums-Sha256:
+ 32975b17ed7d7bd82ccafc767807529a9f4c040c11ae2de8bc1921a074a080eb 1298 weechat_1.8-1.dsc
+ f4112b09cc1e73451ccf83cfc788195539c3ae8d6e5b5978399c5b54925dbeb7 10716063 weechat_1.8-1.tar.gz
+ 4e3762f3cb984afa527bbf1b5d50c841e61f1dea48ddfa171a41f077487ba9c1 56502 weechat_1.8-1_all.deb
+ 32e5bb16d323fc151b86929a687d262f6503c75d0cc60491b9314606518b6b12 337992 weechat-curses_1.8-1_armhf.deb
+ fa39754aa76d7eba82b27f4ce9ad29c5d9f04af7921923447932975effc5fef0 696990 weechat-core_1.8-1_armhf.deb
+ aaec0b644b20341a82f9f5d908b9412cbef0912100fef2ab1078c04036239e97 438036 weechat-plugins_1.8-1_armhf.deb
+ 381a383e8c5c8d26ce6fad270c783612cb7f950e1709c6620d89fb571c47918f 822948 weechat-doc_1.8-1_all.deb
+ 41694fd1bdd7bf6ad1a9442af4a87e1482387a2a0f63e8eb9c511d67cbedaf0e 69252 weechat-dev_1.8-1_all.deb
+ ca944bad8fffb98921057d1520bb413202cb42c457c2476ffa8807722df8120d 3446158 weechat-dbg_1.8-1_armhf.deb
+Files:
+ 82beef22c85c0d777c7d73b98dc85b1b 1298 net optional weechat_1.8-1.dsc
+ e856b3084cc8ad90ee87fb8b55f9320f 10716063 net optional weechat_1.8-1.tar.gz
+ 1bf0d3b473a416f0965c28eb9292cb75 56502 net optional weechat_1.8-1_all.deb
+ 785395b015282095981d40619139d462 337992 net optional weechat-curses_1.8-1_armhf.deb
+ f55d234670af987a84cf8b10df32f69c 696990 net optional weechat-core_1.8-1_armhf.deb
+ 261e785f8357f0a415f50efd7335200c 438036 net optional weechat-plugins_1.8-1_armhf.deb
+ e51aa3dd770a07d46285905736ba45cc 822948 doc optional weechat-doc_1.8-1_all.deb
+ b7fc600488d0364dacd1de56c509633b 69252 devel optional weechat-dev_1.8-1_all.deb
+ b48bdef0249262800fc57139bc132292 3446158 debug extra weechat-dbg_1.8-1_armhf.deb
